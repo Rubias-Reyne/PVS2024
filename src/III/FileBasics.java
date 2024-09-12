@@ -3,10 +3,11 @@ package III;
 import fileworks.DataExport;
 import fileworks.DataImport;
 
-public class fileBasics {
+public class FileBasics {
     public static void main(String[] args) {
         DataImport di = new DataImport("inputs.txt");
         DataExport de = new DataExport("output.txt");
+
 //        di.printFile();
         String line;
         String[] params;
