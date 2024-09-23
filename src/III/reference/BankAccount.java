@@ -1,6 +1,4 @@
-package reference;
-
-import java.util.concurrent.ThreadLocalRandom;
+package III.reference;
 
 public class BankAccount {
     private double balance;

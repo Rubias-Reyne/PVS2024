@@ -1,4 +1,4 @@
-package reference;
+package III.reference;
 
 class Duality {
     int number;
