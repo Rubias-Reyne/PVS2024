@@ -18,4 +18,8 @@ public class Doctor {
         return salary;
     }
 
+    @Override
+    public String toString() {
+        return name + ": " + salary;
+    }
 }

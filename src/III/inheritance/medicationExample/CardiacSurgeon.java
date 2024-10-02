@@ -12,4 +12,6 @@ public class CardiacSurgeon extends Surgeon{
         System.out.println("Cut through the heart and I'm to blame ...");
         salary += 15000;
     }
+
+
 }
