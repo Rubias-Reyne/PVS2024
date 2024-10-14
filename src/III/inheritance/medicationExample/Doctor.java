@@ -22,4 +22,6 @@ public class Doctor {
     public String toString() {
         return name + ": " + salary;
     }
+
+
 }
