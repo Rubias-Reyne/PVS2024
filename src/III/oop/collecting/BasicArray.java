@@ -28,7 +28,7 @@ public class BasicArray {
         alsoNumbers[5] = 40;
 
 //        int[] je primitivni, nema zadne metody, pro vypis musim zavolat knihovnu
-        System.out.println(yetAnotherNumbers);
+        System.out.println(Arrays.toString(yetAnotherNumbers));
 
 //        jednoducha ukazka razeni
         Arrays.sort(yetAnotherNumbers); //pouzije quicksort
