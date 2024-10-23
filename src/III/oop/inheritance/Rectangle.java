@@ -1,4 +1,4 @@
-package III.inheritance;
+package III.oop.inheritance;
 
 public class Rectangle {
     double width, height;

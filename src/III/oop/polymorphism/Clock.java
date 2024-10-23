@@ -1,4 +1,4 @@
-package III.polymorphism;
+package III.oop.polymorphism;
 
 public interface Clock {
     void printTime();

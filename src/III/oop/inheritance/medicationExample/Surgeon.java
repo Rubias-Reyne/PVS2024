@@ -1,4 +1,4 @@
-package III.inheritance.medicationExample;
+package III.oop.inheritance.medicationExample;
 
 public class Surgeon extends Doctor {
     int SURGEON_BONUS = 20000;

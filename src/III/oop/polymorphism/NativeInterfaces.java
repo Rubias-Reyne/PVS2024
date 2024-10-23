@@ -1,7 +1,6 @@
-package III.polymorphism;
+package III.oop.polymorphism;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 
 public class NativeInterfaces{

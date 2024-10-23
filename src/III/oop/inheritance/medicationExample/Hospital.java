@@ -1,9 +1,7 @@
-package III.inheritance.medicationExample;
+package III.oop.inheritance.medicationExample;
 
 import fileworks.DataExport;
 import fileworks.DataImport;
-
-import javax.print.Doc;
 
 @SuppressWarnings("ALL")
 public class Hospital {

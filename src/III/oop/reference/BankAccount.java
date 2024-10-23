@@ -1,4 +1,4 @@
-package III.reference;
+package III.oop.reference;
 
 public class BankAccount {
     private double balance;

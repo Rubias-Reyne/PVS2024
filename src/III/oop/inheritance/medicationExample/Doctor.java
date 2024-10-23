@@ -1,4 +1,4 @@
-package III.inheritance.medicationExample;
+package III.oop.inheritance.medicationExample;
 
 public class Doctor {
     int salary;
