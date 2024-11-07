@@ -3,7 +3,6 @@ package III.oop.collecting;
 public class Stacking {
     public static void main(String[] args) {
 
-
     }
 
 }
