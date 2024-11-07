@@ -1,5 +1,7 @@
 package III.oop.collecting;
 
+import java.util.EmptyStackException;
+
 public class Stacking {
     public static void main(String[] args) {
 
@@ -21,6 +23,7 @@ class ArrayStack{
     ArrayStack(int capacity){
         data = new int[capacity];
         freeIndex = 0;
+
     }
 
     void push(int toAdd){
@@ -47,4 +50,45 @@ class ArrayStack{
         }
         return -1;
     }
+}
+class Link{
+    int data;
+    Link next;
+
+}
+class LinkStack{
+    Link top;
+    LinkStack(){
+        top = null;
+    }
+
+    void push(int toAdd){
+        if (top == null){
+            top = new Link();
+            top.data = toAdd;
+        } //Uz tam neco je
+        else{
+            Link newTop = new Link();
+            newTop.data = toAdd;
+            newTop.next = top; // stary vrchol bude hned za novym
+            top = newTop; //prohlasim za novy vrchol
+        }
+    }
+    int pop(){
+        if (top == null){
+            //idealne hodit chybu, hodi ji ale i tak
+            throw new EmptyStackException();
+        }
+        int toReturn = top.data;
+        top = top.next; //to, co bylo pod topem, je nyni top (me,usi tam byt nic)
+        return toReturn;
+    }
+    int peek(){
+//        if (top == null){
+//            throw new NullPointerException();
+//        }
+        return top.data;
+    }
+
+
 }
