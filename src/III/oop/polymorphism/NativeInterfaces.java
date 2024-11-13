@@ -36,7 +36,7 @@ class Person implements Comparable<Person>{
 
     @Override
     public int compareTo(Person o) {
-        return this.name.compareTo(o.name);
+        return o.name.compareTo(this.name);
     }
 
 //    @Override
