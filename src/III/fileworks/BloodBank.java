@@ -95,7 +95,7 @@ class BloodDonor{
     AB_NEGATIVE(7);
 
     public int position;
-    BloodType(int position){
+    BloodType(int sition){
 
     }
     public static final byte[][] BLOOD_COMPABILITY = {
