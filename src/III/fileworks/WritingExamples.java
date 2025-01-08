@@ -18,7 +18,6 @@ public class WritingExamples {
 
         //po znacich
         FileWriter fw = new FileWriter("output2.txt");
-
         for (int i = 0; i < 1000; i++) {
             fw.write(String.valueOf((int)(Math.random()*4001)));
             fw.write('\n');
