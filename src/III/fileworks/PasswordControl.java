@@ -52,7 +52,7 @@ public class PasswordControl {
         }
         bw.close();
         System.out.println("Count: " + count);
-        System.out.println("% of all valid: " + count/(lineCount/100) + "%");
+        System.out.println("% of all valid: " + (double)count/lineCount*100 + "%");
     }
 
     public static void main(String[] args) throws IOException {
