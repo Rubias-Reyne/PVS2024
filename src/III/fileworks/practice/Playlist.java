@@ -44,8 +44,13 @@ public class Playlist {
         //Vypise ve formatu: PlaylistName (doba trvani ve formatu mm:ss):
         //
         //                      movie1.toString()...
+        System.out.println(name);
+        for (int i = 0; i < programme.size(); i++) {
+            System.out.println(programme.get(i));
+        }
         return null;
     }
+
 
     /**
      * Metoda pro celkove doby trvani ve vterinach

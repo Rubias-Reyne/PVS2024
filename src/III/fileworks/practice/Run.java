@@ -1,9 +1,6 @@
 package III.fileworks.practice;
 
-import III.fileworks.serials.Coordinates;
-import III.oop.import_export.Compare;
 import fileworks.DataImport;
-import org.w3c.dom.ls.LSOutput;
 
 import java.io.*;
 import java.util.*;
@@ -31,21 +28,72 @@ public class Run {
         di.finishImport();
         return films;
     }
+    public static Integer getValueInt(Scanner input, int minValue, int maxValue) {
+
+        int value = 0;
+
+        while (true) {
+            try {
+
+                value = input.nextInt();
+                if((value < minValue) || (value > maxValue)) {
+                    // ERROR message goes here
+                    System.out.println("Incorrect input, try again");
+                } else {
+                    break; // Input successful, break loop.
+                }
+            }
+            catch (InputMismatchException IME) {
+                // ERROR message goes here.
+                System.out.println("Incorrect input, try again");
+                input.nextLine(); // Discards input so user can try again
+            }
+        }
+        return (value);
+    }
+    public static String getValueString(Scanner input) {
+
+        String value = null;
+
+        while (true) {
+            try {
+                value = input.nextLine();
+                break;
+            } catch (InputMismatchException IME) {
+                // ERROR message goes here.
+                System.out.println("Incorrect input, try again");
+                input.nextLine(); // Discards input so user can try again
+            }
+        }
+        return value;
+    }
+    static Playlist playlistCreate(String name){
+        Playlist pl = new Playlist(name);
+        while (true) {
+            int value = getValueInt(sc, -1, movies.size()-1);
+            if(value== -1){
+                break;
+            }else if(value == 0){
+                for (int i = 1; i < movies.size()+1; i++) {
+                    System.out.println(i + " -> " + movies.get(i-1));
+                }
+            }
+            else{
+                pl.programme.add(movies.get(value));
+                System.out.println("We just added to your playlist a movie called: " + movies.get(value-1).name);
+            }
+        }
+        return pl;
+    }
+    static List<Movie> movies = getFilmsFromFile("Movies.txt");
+    static Scanner sc = new Scanner(System.in);
+    static List<Playlist> playlists = new ArrayList<>();
     public static void main(String[] args) throws IOException, ClassNotFoundException {
-        List<Movie> movies = getFilmsFromFile("C:\\Users\\vladimir.topolcany\\IdeaProjects\\PRG\\Movies.txt");
-        List<Playlist> playlists = new ArrayList<>();
-        List<Integer> options = new ArrayList<>();
-        options.add(1);
-        options.add(2);
-        options.add(3);
-        options.add(4);
-        options.add(0);
-        options.add(-1);
-        Scanner sc = new Scanner(System.in);
+        String userInputString = "";
         int userInput = 10;
 
         System.out.println("Hello and welcome!");
-        while (userInput != -1 && userInput != 0){
+        while (true){
             System.out.println("PRESS THE NUMBER OF YOUR CHOICE");
             System.out.println("------------------------------------------------------");
             System.out.println("1\t -> Write list of all movies");
@@ -55,11 +103,7 @@ public class Run {
             System.out.println("0\t -> Save & exit");
             System.out.println("-1\t -> Exit without saving");
             System.out.println("------------------------------------------------------");
-            userInput = sc.nextInt();
-            if (!options.contains(userInput)){
-                System.out.println("INCORRECT INPUT, TRY AGAIN:");
-            }
-
+            userInput = getValueInt(sc,-1,4);
             switch (userInput){
                 case 1:
                     for(Movie movie:movies){
@@ -72,12 +116,8 @@ public class Run {
                     }
                     break;
                 case 3:
-                    System.out.println("Insert the name of your new playlist");
-                    playlists.add(new Playlist(sc.nextLine()));
-                    userInput = sc.nextInt();
-                    while (userInput != 0 && userInput != -1){
-
-                    }
+                    System.out.println("Insert the name of your playlist: ");
+                    playlists.add(playlistCreate(getValueString(sc)));
                     break;
                 case 0:
                     break;
@@ -86,6 +126,5 @@ public class Run {
 
             }
         }
-
     }
 }

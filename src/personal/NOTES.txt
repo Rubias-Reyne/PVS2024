@@ -1,0 +1,1 @@
+In the main menu, go to Git | Update Project or press **Ctrl 0T** . The Update Project dialog opens.

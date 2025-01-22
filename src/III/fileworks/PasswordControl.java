@@ -34,7 +34,7 @@ public class PasswordControl {
 
         //projede 5 souboru
         for (int i = 1; i <= 5; i++) {
-            BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\vladimir.topolcany\\IdeaProjects\\PRG\\textFiles\\dataPsswd\\attempts_" + i + ".txt"));
+            BufferedReader br = new BufferedReader(new FileReader("textFiles/dataPsswd/attempts_" + i + ".txt"));
             int a = 0;
             //dokud program nedorazi na konec souboru, overuje pravdivost jednotlivych radek
             while ((line = br.readLine()) != null){
