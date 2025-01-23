@@ -48,7 +48,7 @@ public class Playlist {
         for (int i = 0; i < programme.size(); i++) {
             System.out.println(programme.get(i));
         }
-        return null;
+        return "-- END --";
     }
 
 

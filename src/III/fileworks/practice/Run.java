@@ -28,6 +28,14 @@ public class Run {
         di.finishImport();
         return films;
     }
+
+    /**
+     * This method is used for checking if user input is Integer
+     * @param input
+     * @param minValue
+     * @param maxValue
+     * @return
+     */
     public static Integer getValueInt(Scanner input, int minValue, int maxValue) {
 
         int value = 0;
@@ -79,7 +87,7 @@ public class Run {
                 }
             }
             else{
-                pl.programme.add(movies.get(value));
+                pl.programme.add(movies.get(value-1));
                 System.out.println("We just added to your playlist a movie called: " + movies.get(value-1).name);
             }
         }
@@ -112,7 +120,7 @@ public class Run {
                     break;
                 case 2:
                     for(Playlist playlist:playlists){
-                        System.out.println(playlist);
+                        System.out.println(playlist.toString());
                     }
                     break;
                 case 3:
@@ -123,7 +131,6 @@ public class Run {
                     break;
                 case -1:
                     break;
-
             }
         }
     }
