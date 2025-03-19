@@ -1,3 +1,4 @@
+import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.*;
 import java.util.stream.Collectors;
@@ -60,5 +61,47 @@ public class PaymentDataGenerator {
     public static void main(String[] args) {
         List<Payment> payments = Payment.generateSamplePayments(100);
         payments.forEach(System.out::println);
+
+        Map<String, Double> topSpendingUsers = payments.stream()
+                .collect(Collectors.groupingBy(Payment::getUserId, Collectors.summingDouble(Payment::getAmount)))
+                .entrySet().stream()
+                .sorted(Map.Entry.<String, Double>comparingByValue().reversed())
+                .limit(3)
+                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue));
+
+        System.out.println("TOP3: " + topSpendingUsers);
+
+        String mostPopularPayment = payments.stream()
+                .filter(payment -> payment.getAmount() >= 200)
+                .collect(Collectors.groupingBy(Payment::getPaymentMethod, Collectors.counting()))
+                .entrySet().stream()
+                .max(Map.Entry.comparingByValue())
+                .map(Map.Entry::getKey)
+                .orElse("nelzeUrcit");
+
+        System.out.println(mostPopularPayment);
+
+        LocalDate today = LocalDate.now();
+        Map<String, List<Payment>> timePayments = payments.stream()
+                .collect(Collectors.groupingBy(payment -> {
+                    LocalDate dateOfTransaction = payment.getTransactionDate().toLocalDate();
+                    if (dateOfTransaction.isEqual(today)){
+                        return "Today";
+                    } else if (dateOfTransaction.isAfter(today.minusDays(7))) {
+                        return "Week";
+                    } else if (dateOfTransaction.isAfter(today.minusDays(30))) {
+                        return "Month";
+                    } else {
+                        return "Older";
+                    }
+                }));
+
+        timePayments.forEach((key, value) -> {
+            System.out.println(key + ": " + value.size())
+            ;
+        });
+
+
     }
 }
+
