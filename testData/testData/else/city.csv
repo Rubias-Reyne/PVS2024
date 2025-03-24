@@ -1,0 +1,1001 @@
+CountryCode,Name,District,Population
+AFG,Kabul,Kabol,1780000
+AFG,Qandahar,Qandahar,237500
+AFG,Herat,Herat,186800
+AFG,Mazar-e-Sharif,Balkh,127800
+NLD,Amsterdam,Noord-Holland,731200
+NLD,Rotterdam,Zuid-Holland,593321
+NLD,Haag,Zuid-Holland,440900
+NLD,Utrecht,Utrecht,234323
+NLD,Eindhoven,Noord-Brabant,201843
+NLD,Tilburg,Noord-Brabant,193238
+NLD,Groningen,Groningen,172701
+NLD,Breda,Noord-Brabant,160398
+NLD,Apeldoorn,Gelderland,153491
+NLD,Nijmegen,Gelderland,152463
+NLD,Enschede,Overijssel,149544
+NLD,Haarlem,Noord-Holland,148772
+NLD,Almere,Flevoland,142465
+NLD,Arnhem,Gelderland,138020
+NLD,Zaanstad,Noord-Holland,135621
+NLD,´s-Hertogenbosch,Noord-Brabant,129170
+NLD,Amersfoort,Utrecht,126270
+NLD,Maastricht,Limburg,122087
+NLD,Dordrecht,Zuid-Holland,119811
+NLD,Leiden,Zuid-Holland,117196
+NLD,Haarlemmermeer,Noord-Holland,110722
+NLD,Zoetermeer,Zuid-Holland,110214
+NLD,Emmen,Drenthe,105853
+NLD,Zwolle,Overijssel,105819
+NLD,Ede,Gelderland,101574
+NLD,Delft,Zuid-Holland,95268
+NLD,Heerlen,Limburg,95052
+NLD,Alkmaar,Noord-Holland,92713
+ANT,Willemstad,Curaçao,2345
+ALB,Tirana,Tirana,270000
+DZA,Alger,Alger,2168000
+DZA,Oran,Oran,609823
+DZA,Constantine,Constantine,443727
+DZA,Annaba,Annaba,222518
+DZA,Batna,Batna,183377
+DZA,Sétif,Sétif,179055
+DZA,"Sidi Bel Abbès","Sidi Bel Abbès",153106
+DZA,Skikda,Skikda,128747
+DZA,Biskra,Biskra,128281
+DZA,"Blida (el-Boulaida)",Blida,127284
+DZA,Béjaïa,Béjaïa,117162
+DZA,Mostaganem,Mostaganem,115212
+DZA,Tébessa,Tébessa,112007
+DZA,"Tlemcen (Tilimsen)",Tlemcen,110242
+DZA,Béchar,Béchar,107311
+DZA,Tiaret,Tiaret,100118
+DZA,"Ech-Chleff (el-Asnam)",Chlef,96794
+DZA,Ghardaïa,Ghardaïa,89415
+ASM,Tafuna,Tutuila,5200
+ASM,Fagatogo,Tutuila,2323
+AND,"Andorra la Vella","Andorra la Vella",21189
+AGO,Luanda,Luanda,2022000
+AGO,Huambo,Huambo,163100
+AGO,Lobito,Benguela,130000
+AGO,Benguela,Benguela,128300
+AGO,Namibe,Namibe,118200
+AIA,"South Hill",–,961
+AIA,"The Valley",–,595
+ATG,"Saint John´s","St John",24000
+ARE,Dubai,Dubai,669181
+ARE,"Abu Dhabi","Abu Dhabi",398695
+ARE,Sharja,Sharja,320095
+ARE,al-Ayn,"Abu Dhabi",225970
+ARE,Ajman,Ajman,114395
+ARG,"Buenos Aires","Distrito Federal",2982146
+ARG,"La Matanza","Buenos Aires",1266461
+ARG,Córdoba,Córdoba,1157507
+ARG,Rosario,"Santa Fé",907718
+ARG,"Lomas de Zamora","Buenos Aires",622013
+ARG,Quilmes,"Buenos Aires",559249
+ARG,"Almirante Brown","Buenos Aires",538918
+ARG,"La Plata","Buenos Aires",521936
+ARG,"Mar del Plata","Buenos Aires",512880
+ARG,"San Miguel de Tucumán",Tucumán,470809
+ARG,Lanús,"Buenos Aires",469735
+ARG,Merlo,"Buenos Aires",463846
+ARG,"General San Martín","Buenos Aires",422542
+ARG,Salta,Salta,367550
+ARG,Moreno,"Buenos Aires",356993
+ARG,"Santa Fé","Santa Fé",353063
+ARG,Avellaneda,"Buenos Aires",353046
+ARG,"Tres de Febrero","Buenos Aires",352311
+ARG,Morón,"Buenos Aires",349246
+ARG,"Florencio Varela","Buenos Aires",315432
+ARG,"San Isidro","Buenos Aires",306341
+ARG,Tigre,"Buenos Aires",296226
+ARG,"Malvinas Argentinas","Buenos Aires",290335
+ARG,"Vicente López","Buenos Aires",288341
+ARG,Berazategui,"Buenos Aires",276916
+ARG,Corrientes,Corrientes,258103
+ARG,"San Miguel","Buenos Aires",248700
+ARG,"Bahía Blanca","Buenos Aires",239810
+ARG,"Esteban Echeverría","Buenos Aires",235760
+ARG,Resistencia,Chaco,229212
+ARG,"José C. Paz","Buenos Aires",221754
+ARG,Paraná,"Entre Rios",207041
+ARG,"Godoy Cruz",Mendoza,206998
+ARG,Posadas,Misiones,201273
+ARG,Guaymallén,Mendoza,200595
+ARG,"Santiago del Estero","Santiago del Estero",189947
+ARG,"San Salvador de Jujuy",Jujuy,178748
+ARG,Hurlingham,"Buenos Aires",170028
+ARG,Neuquén,Neuquén,167296
+ARG,Ituzaingó,"Buenos Aires",158197
+ARG,"San Fernando","Buenos Aires",153036
+ARG,Formosa,Formosa,147636
+ARG,"Las Heras",Mendoza,145823
+ARG,"La Rioja","La Rioja",138117
+ARG,"San Fernando del Valle de Cata",Catamarca,134935
+ARG,"Río Cuarto",Córdoba,134355
+ARG,"Comodoro Rivadavia",Chubut,124104
+ARG,Mendoza,Mendoza,123027
+ARG,"San Nicolás de los Arroyos","Buenos Aires",119302
+ARG,"San Juan","San Juan",119152
+ARG,Escobar,"Buenos Aires",116675
+ARG,Concordia,"Entre Rios",116485
+ARG,Pilar,"Buenos Aires",113428
+ARG,"San Luis","San Luis",110136
+ARG,Ezeiza,"Buenos Aires",99578
+ARG,"San Rafael",Mendoza,94651
+ARG,Tandil,"Buenos Aires",91101
+ARM,Yerevan,Yerevan,1248700
+ARM,Gjumri,Širak,211700
+ARM,Vanadzor,Lori,172700
+ABW,Oranjestad,–,29034
+AUS,Sydney,"New South Wales",3276207
+AUS,Melbourne,Victoria,2865329
+AUS,Brisbane,Queensland,1291117
+AUS,Perth,"West Australia",1096829
+AUS,Adelaide,"South Australia",978100
+AUS,Canberra,"Capital Region",322723
+AUS,"Gold Coast",Queensland,311932
+AUS,Newcastle,"New South Wales",270324
+AUS,"Central Coast","New South Wales",227657
+AUS,Wollongong,"New South Wales",219761
+AUS,Hobart,Tasmania,126118
+AUS,Geelong,Victoria,125382
+AUS,Townsville,Queensland,109914
+AUS,Cairns,Queensland,92273
+AZE,Baku,Baki,1787800
+AZE,Gäncä,Gäncä,299300
+AZE,Sumqayit,Sumqayit,283000
+AZE,Mingäçevir,Mingäçevir,93900
+BHS,Nassau,"New Providence",172000
+BHR,al-Manama,al-Manama,148000
+BGD,Dhaka,Dhaka,3612850
+BGD,Chittagong,Chittagong,1392860
+BGD,Khulna,Khulna,663340
+BGD,Rajshahi,Rajshahi,294056
+BGD,Narayanganj,Dhaka,202134
+BGD,Rangpur,Rajshahi,191398
+BGD,Mymensingh,Dhaka,188713
+BGD,Barisal,Barisal,170232
+BGD,Tungi,Dhaka,168702
+BGD,Jessore,Khulna,139710
+BGD,Comilla,Chittagong,135313
+BGD,Nawabganj,Rajshahi,130577
+BGD,Dinajpur,Rajshahi,127815
+BGD,Bogra,Rajshahi,120170
+BGD,Sylhet,Sylhet,117396
+BGD,Brahmanbaria,Chittagong,109032
+BGD,Tangail,Dhaka,106004
+BGD,Jamalpur,Dhaka,103556
+BGD,Pabna,Rajshahi,103277
+BGD,Naogaon,Rajshahi,101266
+BGD,Sirajganj,Rajshahi,99669
+BGD,Narsinghdi,Dhaka,98342
+BGD,Saidpur,Rajshahi,96777
+BGD,Gazipur,Dhaka,96717
+BRB,Bridgetown,"St Michael",6070
+BEL,Antwerpen,Antwerpen,446525
+BEL,Gent,"East Flanderi",224180
+BEL,Charleroi,Hainaut,200827
+BEL,Liège,Liège,185639
+BEL,"Bruxelles [Brussel]",Bryssel,133859
+BEL,Brugge,"West Flanderi",116246
+BEL,Schaerbeek,Bryssel,105692
+BEL,Namur,Namur,105419
+BEL,Mons,Hainaut,90935
+BLZ,"Belize City","Belize City",55810
+BLZ,Belmopan,Cayo,7105
+BEN,Cotonou,Atlantique,536827
+BEN,Porto-Novo,Ouémé,194000
+BEN,Djougou,Atacora,134099
+BEN,Parakou,Borgou,103577
+BMU,"Saint George","Saint George´s",1800
+BMU,Hamilton,Hamilton,1200
+BTN,Thimphu,Thimphu,22000
+BOL,"Santa Cruz de la Sierra","Santa Cruz",935361
+BOL,"La Paz","La Paz",758141
+BOL,"El Alto","La Paz",534466
+BOL,Cochabamba,Cochabamba,482800
+BOL,Oruro,Oruro,223553
+BOL,Sucre,Chuquisaca,178426
+BOL,Potosí,Potosí,140642
+BOL,Tarija,Tarija,125255
+BIH,Sarajevo,Federaatio,360000
+BIH,"Banja Luka","Republika Srpska",143079
+BIH,Zenica,Federaatio,96027
+BWA,Gaborone,Gaborone,213017
+BWA,Francistown,Francistown,101805
+BRA,"São Paulo","São Paulo",9968485
+BRA,"Rio de Janeiro","Rio de Janeiro",5598953
+BRA,Salvador,Bahia,2302832
+BRA,"Belo Horizonte","Minas Gerais",2139125
+BRA,Fortaleza,Ceará,2097757
+BRA,Brasília,"Distrito Federal",1969868
+BRA,Curitiba,Paraná,1584232
+BRA,Recife,Pernambuco,1378087
+BRA,"Porto Alegre","Rio Grande do Sul",1314032
+BRA,Manaus,Amazonas,1255049
+BRA,Belém,Pará,1186926
+BRA,Guarulhos,"São Paulo",1095874
+BRA,Goiânia,Goiás,1056330
+BRA,Campinas,"São Paulo",950043
+BRA,"São Gonçalo","Rio de Janeiro",869254
+BRA,"Nova Iguaçu","Rio de Janeiro",862225
+BRA,"São Luís",Maranhão,837588
+BRA,Maceió,Alagoas,786288
+BRA,"Duque de Caxias","Rio de Janeiro",746758
+BRA,"São Bernardo do Campo","São Paulo",723132
+BRA,Teresina,Piauí,691942
+BRA,Natal,"Rio Grande do Norte",688955
+BRA,Osasco,"São Paulo",659604
+BRA,"Campo Grande","Mato Grosso do Sul",649593
+BRA,"Santo André","São Paulo",630073
+BRA,"João Pessoa",Paraíba,584029
+BRA,"Jaboatão dos Guararapes",Pernambuco,558680
+BRA,Contagem,"Minas Gerais",520801
+BRA,"São José dos Campos","São Paulo",515553
+BRA,Uberlândia,"Minas Gerais",487222
+BRA,"Feira de Santana",Bahia,479992
+BRA,"Ribeirão Preto","São Paulo",473276
+BRA,Sorocaba,"São Paulo",466823
+BRA,Niterói,"Rio de Janeiro",459884
+BRA,Cuiabá,"Mato Grosso",453813
+BRA,"Juiz de Fora","Minas Gerais",450288
+BRA,Aracaju,Sergipe,445555
+BRA,"São João de Meriti","Rio de Janeiro",440052
+BRA,Londrina,Paraná,432257
+BRA,Joinville,"Santa Catarina",428011
+BRA,"Belford Roxo","Rio de Janeiro",425194
+BRA,Santos,"São Paulo",408748
+BRA,Ananindeua,Pará,400940
+BRA,"Campos dos Goytacazes","Rio de Janeiro",398418
+BRA,Mauá,"São Paulo",375055
+BRA,Carapicuíba,"São Paulo",357552
+BRA,Olinda,Pernambuco,354732
+BRA,"Campina Grande",Paraíba,352497
+BRA,"São José do Rio Preto","São Paulo",351944
+BRA,"Caxias do Sul","Rio Grande do Sul",349581
+BRA,"Moji das Cruzes","São Paulo",339194
+BRA,Diadema,"São Paulo",335078
+BRA,"Aparecida de Goiânia",Goiás,324662
+BRA,Piracicaba,"São Paulo",319104
+BRA,Cariacica,"Espírito Santo",319033
+BRA,"Vila Velha","Espírito Santo",318758
+BRA,Pelotas,"Rio Grande do Sul",315415
+BRA,Bauru,"São Paulo",313670
+BRA,"Porto Velho",Rondônia,309750
+BRA,Serra,"Espírito Santo",302666
+BRA,Betim,"Minas Gerais",302108
+BRA,Jundíaí,"São Paulo",296127
+BRA,Canoas,"Rio Grande do Sul",294125
+BRA,Franca,"São Paulo",290139
+BRA,"São Vicente","São Paulo",286848
+BRA,Maringá,Paraná,286461
+BRA,"Montes Claros","Minas Gerais",286058
+BRA,Anápolis,Goiás,282197
+BRA,Florianópolis,"Santa Catarina",281928
+BRA,Petrópolis,"Rio de Janeiro",279183
+BRA,Itaquaquecetuba,"São Paulo",270874
+BRA,Vitória,"Espírito Santo",270626
+BRA,"Ponta Grossa",Paraná,268013
+BRA,"Rio Branco",Acre,259537
+BRA,"Foz do Iguaçu",Paraná,259425
+BRA,Macapá,Amapá,256033
+BRA,Ilhéus,Bahia,254970
+BRA,"Vitória da Conquista",Bahia,253587
+BRA,Uberaba,"Minas Gerais",249225
+BRA,Paulista,Pernambuco,248473
+BRA,Limeira,"São Paulo",245497
+BRA,Blumenau,"Santa Catarina",244379
+BRA,Caruaru,Pernambuco,244247
+BRA,Santarém,Pará,241771
+BRA,"Volta Redonda","Rio de Janeiro",240315
+BRA,"Novo Hamburgo","Rio Grande do Sul",239940
+BRA,Caucaia,Ceará,238738
+BRA,"Santa Maria","Rio Grande do Sul",238473
+BRA,Cascavel,Paraná,237510
+BRA,Guarujá,"São Paulo",237206
+BRA,"Ribeirão das Neves","Minas Gerais",232685
+BRA,"Governador Valadares","Minas Gerais",231724
+BRA,Taubaté,"São Paulo",229130
+BRA,Imperatriz,Maranhão,224564
+BRA,Gravataí,"Rio Grande do Sul",223011
+BRA,Embu,"São Paulo",222223
+BRA,Mossoró,"Rio Grande do Norte",214901
+BRA,"Várzea Grande","Mato Grosso",214435
+BRA,Petrolina,Pernambuco,210540
+BRA,Barueri,"São Paulo",208426
+BRA,Viamão,"Rio Grande do Sul",207557
+BRA,Ipatinga,"Minas Gerais",206338
+BRA,Juazeiro,Bahia,201073
+BRA,"Juazeiro do Norte",Ceará,199636
+BRA,"Taboão da Serra","São Paulo",197550
+BRA,"São José dos Pinhais",Paraná,196884
+BRA,Magé,"Rio de Janeiro",196147
+BRA,Suzano,"São Paulo",195434
+BRA,"São Leopoldo","Rio Grande do Sul",189258
+BRA,Marília,"São Paulo",188691
+BRA,"São Carlos","São Paulo",187122
+BRA,Sumaré,"São Paulo",186205
+BRA,"Presidente Prudente","São Paulo",185340
+BRA,Divinópolis,"Minas Gerais",185047
+BRA,"Sete Lagoas","Minas Gerais",182984
+BRA,"Rio Grande","Rio Grande do Sul",182222
+BRA,Itabuna,Bahia,182148
+BRA,Jequié,Bahia,179128
+BRA,Arapiraca,Alagoas,178988
+BRA,Colombo,Paraná,177764
+BRA,Americana,"São Paulo",177409
+BRA,Alvorada,"Rio Grande do Sul",175574
+BRA,Araraquara,"São Paulo",174381
+BRA,Itaboraí,"Rio de Janeiro",173977
+BRA,"Santa Bárbara d´Oeste","São Paulo",171657
+BRA,"Nova Friburgo","Rio de Janeiro",170697
+BRA,Jacareí,"São Paulo",170356
+BRA,Araçatuba,"São Paulo",169303
+BRA,"Barra Mansa","Rio de Janeiro",168953
+BRA,"Praia Grande","São Paulo",168434
+BRA,Marabá,Pará,167795
+BRA,Criciúma,"Santa Catarina",167661
+BRA,"Boa Vista",Roraima,167185
+BRA,"Passo Fundo","Rio Grande do Sul",166343
+BRA,Dourados,"Mato Grosso do Sul",164716
+BRA,"Santa Luzia","Minas Gerais",164704
+BRA,"Rio Claro","São Paulo",163551
+BRA,Maracanaú,Ceará,162022
+BRA,Guarapuava,Paraná,160510
+BRA,Rondonópolis,"Mato Grosso",155115
+BRA,"São José","Santa Catarina",155105
+BRA,"Cachoeiro de Itapemirim","Espírito Santo",155024
+BRA,Nilópolis,"Rio de Janeiro",153383
+BRA,Itapevi,"São Paulo",150664
+BRA,"Cabo de Santo Agostinho",Pernambuco,149964
+BRA,Camaçari,Bahia,149146
+BRA,Sobral,Ceará,146005
+BRA,Itajaí,"Santa Catarina",145197
+BRA,Chapecó,"Santa Catarina",144158
+BRA,Cotia,"São Paulo",140042
+BRA,Lages,"Santa Catarina",139570
+BRA,"Ferraz de Vasconcelos","São Paulo",139283
+BRA,Indaiatuba,"São Paulo",135968
+BRA,Hortolândia,"São Paulo",135755
+BRA,Caxias,Maranhão,133980
+BRA,"São Caetano do Sul","São Paulo",133321
+BRA,Itu,"São Paulo",132736
+BRA,"Nossa Senhora do Socorro",Sergipe,131351
+BRA,Parnaíba,Piauí,129756
+BRA,"Poços de Caldas","Minas Gerais",129683
+BRA,Teresópolis,"Rio de Janeiro",128079
+BRA,Barreiras,Bahia,127801
+BRA,Castanhal,Pará,127634
+BRA,Alagoinhas,Bahia,126820
+BRA,"Itapecerica da Serra","São Paulo",126672
+BRA,Uruguaiana,"Rio Grande do Sul",126305
+BRA,Paranaguá,Paraná,126076
+BRA,Ibirité,"Minas Gerais",125982
+BRA,Timon,Maranhão,125812
+BRA,Luziânia,Goiás,125597
+BRA,Macaé,"Rio de Janeiro",125597
+BRA,"Teófilo Otoni","Minas Gerais",124489
+BRA,Moji-Guaçu,"São Paulo",123782
+BRA,Palmas,Tocantins,121919
+BRA,Pindamonhangaba,"São Paulo",121904
+BRA,"Francisco Morato","São Paulo",121197
+BRA,Bagé,"Rio Grande do Sul",120793
+BRA,"Sapucaia do Sul","Rio Grande do Sul",120217
+BRA,"Cabo Frio","Rio de Janeiro",119503
+BRA,Itapetininga,"São Paulo",119391
+BRA,"Patos de Minas","Minas Gerais",119262
+BRA,Camaragibe,Pernambuco,118968
+BRA,"Bragança Paulista","São Paulo",116929
+BRA,Queimados,"Rio de Janeiro",115020
+BRA,Araguaína,Tocantins,114948
+BRA,Garanhuns,Pernambuco,114603
+BRA,"Vitória de Santo Antão",Pernambuco,113595
+BRA,"Santa Rita",Paraíba,113135
+BRA,Barbacena,"Minas Gerais",113079
+BRA,Abaetetuba,Pará,111258
+BRA,Jaú,"São Paulo",109965
+BRA,"Lauro de Freitas",Bahia,109236
+BRA,"Franco da Rocha","São Paulo",108964
+BRA,"Teixeira de Freitas",Bahia,108441
+BRA,Varginha,"Minas Gerais",108314
+BRA,"Ribeirão Pires","São Paulo",108121
+BRA,Sabará,"Minas Gerais",107781
+BRA,Catanduva,"São Paulo",107761
+BRA,"Rio Verde",Goiás,107755
+BRA,Botucatu,"São Paulo",107663
+BRA,Colatina,"Espírito Santo",107354
+BRA,"Santa Cruz do Sul","Rio Grande do Sul",106734
+BRA,Linhares,"Espírito Santo",106278
+BRA,Apucarana,Paraná,105114
+BRA,Barretos,"São Paulo",104156
+BRA,Guaratinguetá,"São Paulo",103433
+BRA,Cachoeirinha,"Rio Grande do Sul",103240
+BRA,Codó,Maranhão,103153
+BRA,"Jaraguá do Sul","Santa Catarina",102580
+BRA,Cubatão,"São Paulo",102372
+BRA,Itabira,"Minas Gerais",102217
+BRA,Itaituba,Pará,101320
+BRA,Araras,"São Paulo",101046
+BRA,Resende,"Rio de Janeiro",100627
+BRA,Atibaia,"São Paulo",100356
+BRA,"Pouso Alegre","Minas Gerais",100028
+BRA,Toledo,Paraná,99387
+BRA,Crato,Ceará,98965
+BRA,Passos,"Minas Gerais",98570
+BRA,Araguari,"Minas Gerais",98399
+BRA,"São José de Ribamar",Maranhão,98318
+BRA,Pinhais,Paraná,98198
+BRA,Sertãozinho,"São Paulo",98140
+BRA,"Conselheiro Lafaiete","Minas Gerais",97507
+BRA,"Paulo Afonso",Bahia,97291
+BRA,"Angra dos Reis","Rio de Janeiro",96864
+BRA,Eunápolis,Bahia,96610
+BRA,Salto,"São Paulo",96348
+BRA,Ourinhos,"São Paulo",96291
+BRA,Parnamirim,"Rio Grande do Norte",96210
+BRA,Jacobina,Bahia,96131
+BRA,"Coronel Fabriciano","Minas Gerais",95933
+BRA,Birigui,"São Paulo",94685
+BRA,Tatuí,"São Paulo",93897
+BRA,Ji-Paraná,Rondônia,93346
+BRA,Bacabal,Maranhão,93121
+BRA,Cametá,Pará,92779
+BRA,Guaíba,"Rio Grande do Sul",92224
+BRA,"São Lourenço da Mata",Pernambuco,91999
+BRA,"Santana do Livramento","Rio Grande do Sul",91779
+BRA,Votorantim,"São Paulo",91777
+BRA,"Campo Largo",Paraná,91203
+BRA,Patos,Paraíba,90519
+BRA,Ituiutaba,"Minas Gerais",90507
+BRA,Corumbá,"Mato Grosso do Sul",90111
+BRA,Palhoça,"Santa Catarina",89465
+BRA,"Barra do Piraí","Rio de Janeiro",89388
+BRA,"Bento Gonçalves","Rio Grande do Sul",89254
+BRA,Poá,"São Paulo",89236
+BRA,"Águas Lindas de Goiás",Goiás,89200
+GBR,London,England,7285000
+GBR,Birmingham,England,1013000
+GBR,Glasgow,Scotland,619680
+GBR,Liverpool,England,461000
+GBR,Edinburgh,Scotland,450180
+GBR,Sheffield,England,431607
+GBR,Manchester,England,430000
+GBR,Leeds,England,424194
+GBR,Bristol,England,402000
+GBR,Cardiff,Wales,321000
+GBR,Coventry,England,304000
+GBR,Leicester,England,294000
+GBR,Bradford,England,289376
+GBR,Belfast,"North Ireland",287500
+GBR,Nottingham,England,287000
+GBR,"Kingston upon Hull",England,262000
+GBR,Plymouth,England,253000
+GBR,Stoke-on-Trent,England,252000
+GBR,Wolverhampton,England,242000
+GBR,Derby,England,236000
+GBR,Swansea,Wales,230000
+GBR,Southampton,England,216000
+GBR,Aberdeen,Scotland,213070
+GBR,Northampton,England,196000
+GBR,Dudley,England,192171
+GBR,Portsmouth,England,190000
+GBR,"Newcastle upon Tyne",England,189150
+GBR,Sunderland,England,183310
+GBR,Luton,England,183000
+GBR,Swindon,England,180000
+GBR,Southend-on-Sea,England,176000
+GBR,Walsall,England,174739
+GBR,Bournemouth,England,162000
+GBR,Peterborough,England,156000
+GBR,Brighton,England,156124
+GBR,Blackpool,England,151000
+GBR,Dundee,Scotland,146690
+GBR,"West Bromwich",England,146386
+GBR,Reading,England,148000
+GBR,"Oldbury/Smethwick (Warley)",England,145542
+GBR,Middlesbrough,England,145000
+GBR,Huddersfield,England,143726
+GBR,Oxford,England,144000
+GBR,Poole,England,141000
+GBR,Bolton,England,139020
+GBR,Blackburn,England,140000
+GBR,Newport,Wales,139000
+GBR,Preston,England,135000
+GBR,Stockport,England,132813
+GBR,Norwich,England,124000
+GBR,Rotherham,England,121380
+GBR,Cambridge,England,121000
+GBR,Watford,England,113080
+GBR,Ipswich,England,114000
+GBR,Slough,England,112000
+GBR,Exeter,England,111000
+GBR,Cheltenham,England,106000
+GBR,Gloucester,England,107000
+GBR,"Saint Helens",England,106293
+GBR,"Sutton Coldfield",England,106001
+GBR,York,England,104425
+GBR,Oldham,England,103931
+GBR,Basildon,England,100924
+GBR,Worthing,England,100000
+GBR,Chelmsford,England,97451
+GBR,Colchester,England,96063
+GBR,Crawley,England,97000
+GBR,Gillingham,England,92000
+GBR,Solihull,England,94531
+GBR,Rochdale,England,94313
+GBR,Birkenhead,England,93087
+GBR,Worcester,England,95000
+GBR,Hartlepool,England,92000
+GBR,Halifax,England,91069
+GBR,Woking/Byfleet,England,92000
+GBR,Southport,England,90959
+GBR,Maidstone,England,90878
+GBR,Eastbourne,England,90000
+GBR,Grimsby,England,89000
+GBR,"Saint Helier",Jersey,27523
+GBR,Douglas,–,23487
+VGB,"Road Town",Tortola,8000
+BRN,"Bandar Seri Begawan","Brunei and Muara",21484
+BGR,Sofija,"Grad Sofija",1122302
+BGR,Plovdiv,Plovdiv,342584
+BGR,Varna,Varna,299801
+BGR,Burgas,Burgas,195255
+BGR,Ruse,Ruse,166467
+BGR,"Stara Zagora",Haskovo,147939
+BGR,Pleven,Lovec,121952
+BGR,Sliven,Burgas,105530
+BGR,Dobric,Varna,100399
+BGR,Šumen,Varna,94686
+BFA,Ouagadougou,Kadiogo,824000
+BFA,Bobo-Dioulasso,Houet,300000
+BFA,Koudougou,Boulkiemdé,105000
+BDI,Bujumbura,Bujumbura,300000
+CYM,"George Town","Grand Cayman",19600
+CHL,"Santiago de Chile",Santiago,4703954
+CHL,"Puente Alto",Santiago,386236
+CHL,"Viña del Mar",Valparaíso,312493
+CHL,Valparaíso,Valparaíso,293800
+CHL,Talcahuano,Bíobío,277752
+CHL,Antofagasta,Antofagasta,251429
+CHL,"San Bernardo",Santiago,241910
+CHL,Temuco,"La Araucanía",233041
+CHL,Concepción,Bíobío,217664
+CHL,Rancagua,O´Higgins,212977
+CHL,Arica,Tarapacá,189036
+CHL,Talca,Maule,187557
+CHL,Chillán,Bíobío,178182
+CHL,Iquique,Tarapacá,177892
+CHL,"Los Angeles",Bíobío,158215
+CHL,"Puerto Montt","Los Lagos",152194
+CHL,Coquimbo,Coquimbo,143353
+CHL,Osorno,"Los Lagos",141468
+CHL,"La Serena",Coquimbo,137409
+CHL,Calama,Antofagasta,137265
+CHL,Valdivia,"Los Lagos",133106
+CHL,"Punta Arenas",Magallanes,125631
+CHL,Copiapó,Atacama,120128
+CHL,Quilpué,Valparaíso,118857
+CHL,Curicó,Maule,115766
+CHL,Ovalle,Coquimbo,94854
+CHL,Coronel,Bíobío,93061
+CHL,"San Pedro de la Paz",Bíobío,91684
+CHL,Melipilla,Santiago,91056
+COK,Avarua,Rarotonga,11900
+CRI,"San José","San José",339131
+DJI,Djibouti,Djibouti,383000
+DMA,Roseau,"St George",16243
+DOM,"Santo Domingo de Guzmán","Distrito Nacional",1609966
+DOM,"Santiago de los Caballeros",Santiago,365463
+DOM,"La Romana","La Romana",140204
+DOM,"San Pedro de Macorís","San Pedro de Macorís",124735
+DOM,"San Francisco de Macorís",Duarte,108485
+DOM,"San Felipe de Puerto Plata","Puerto Plata",89423
+ECU,Guayaquil,Guayas,2070040
+ECU,Quito,Pichincha,1573458
+ECU,Cuenca,Azuay,270353
+ECU,Machala,"El Oro",210368
+ECU,"Santo Domingo de los Colorados",Pichincha,202111
+ECU,Portoviejo,Manabí,176413
+ECU,Ambato,Tungurahua,169612
+ECU,Manta,Manabí,164739
+ECU,"Duran [Eloy Alfaro]",Guayas,152514
+ECU,Ibarra,Imbabura,130643
+ECU,Quevedo,"Los Ríos",129631
+ECU,Milagro,Guayas,124177
+ECU,Loja,Loja,123875
+ECU,Ríobamba,Chimborazo,123163
+ECU,Esmeraldas,Esmeraldas,123045
+EGY,Cairo,Kairo,6789479
+EGY,Alexandria,Aleksandria,3328196
+EGY,Giza,Giza,2221868
+EGY,"Shubra al-Khayma",al-Qalyubiya,870716
+EGY,"Port Said","Port Said",469533
+EGY,Suez,Suez,417610
+EGY,"al-Mahallat al-Kubra",al-Gharbiya,395402
+EGY,Tanta,al-Gharbiya,371010
+EGY,al-Mansura,al-Daqahliya,369621
+EGY,Luxor,Luxor,360503
+EGY,Asyut,Asyut,343498
+EGY,Bahtim,al-Qalyubiya,275807
+EGY,Zagazig,al-Sharqiya,267351
+EGY,al-Faiyum,al-Faiyum,260964
+EGY,Ismailia,Ismailia,254477
+EGY,"Kafr al-Dawwar",al-Buhayra,231978
+EGY,Assuan,Assuan,219017
+EGY,Damanhur,al-Buhayra,212203
+EGY,al-Minya,al-Minya,201360
+EGY,"Bani Suwayf","Bani Suwayf",172032
+EGY,Qina,Qina,171275
+EGY,Sawhaj,Sawhaj,170125
+EGY,"Shibin al-Kawm",al-Minufiya,159909
+EGY,"Bulaq al-Dakrur",Giza,148787
+EGY,Banha,al-Qalyubiya,145792
+EGY,"Warraq al-Arab",Giza,127108
+EGY,"Kafr al-Shaykh","Kafr al-Shaykh",124819
+EGY,Mallawi,al-Minya,119283
+EGY,Bilbays,al-Sharqiya,113608
+EGY,"Mit Ghamr",al-Daqahliya,101801
+EGY,al-Arish,"Shamal Sina",100447
+EGY,Talkha,al-Daqahliya,97700
+EGY,Qalyub,al-Qalyubiya,97200
+EGY,Jirja,Sawhaj,95400
+EGY,Idfu,Qina,94200
+EGY,al-Hawamidiya,Giza,91700
+EGY,Disuq,"Kafr al-Shaykh",91300
+SLV,"San Salvador","San Salvador",415346
+SLV,"Santa Ana","Santa Ana",139389
+SLV,Mejicanos,"San Salvador",138800
+SLV,Soyapango,"San Salvador",129800
+SLV,"San Miguel","San Miguel",127696
+SLV,"Nueva San Salvador","La Libertad",98400
+SLV,Apopa,"San Salvador",88800
+ERI,Asmara,Maekel,431000
+ESP,Madrid,Madrid,2879052
+ESP,Barcelona,Katalonia,1503451
+ESP,Valencia,Valencia,739412
+ESP,Sevilla,Andalusia,701927
+ESP,Zaragoza,Aragonia,603367
+ESP,Málaga,Andalusia,530553
+ESP,Bilbao,Baskimaa,357589
+ESP,"Las Palmas de Gran Canaria","Canary Islands",354757
+ESP,Murcia,Murcia,353504
+ESP,"Palma de Mallorca",Balears,326993
+ESP,Valladolid,"Castilla and León",319998
+ESP,Córdoba,Andalusia,311708
+ESP,Vigo,Galicia,283670
+ESP,"Alicante [Alacant]",Valencia,272432
+ESP,Gijón,Asturia,267980
+ESP,"L´Hospitalet de Llobregat",Katalonia,247986
+ESP,Granada,Andalusia,244767
+ESP,"A Coruña (La Coruña)",Galicia,243402
+ESP,Vitoria-Gasteiz,Baskimaa,217154
+ESP,"Santa Cruz de Tenerife","Canary Islands",213050
+ESP,Badalona,Katalonia,209635
+ESP,Oviedo,Asturia,200453
+ESP,Móstoles,Madrid,195351
+ESP,"Elche [Elx]",Valencia,193174
+ESP,Sabadell,Katalonia,184859
+ESP,Santander,Cantabria,184165
+ESP,"Jerez de la Frontera",Andalusia,182660
+ESP,"Pamplona [Iruña]",Navarra,180483
+ESP,"Donostia-San Sebastián",Baskimaa,179208
+ESP,Cartagena,Murcia,177709
+ESP,Leganés,Madrid,173163
+ESP,Fuenlabrada,Madrid,171173
+ESP,Almería,Andalusia,169027
+ESP,Terrassa,Katalonia,168695
+ESP,"Alcalá de Henares",Madrid,164463
+ESP,Burgos,"Castilla and León",162802
+ESP,Salamanca,"Castilla and León",158720
+ESP,Albacete,"Kastilia-La Mancha",147527
+ESP,Getafe,Madrid,145371
+ESP,Cádiz,Andalusia,142449
+ESP,Alcorcón,Madrid,142048
+ESP,Huelva,Andalusia,140583
+ESP,León,"Castilla and León",139809
+ESP,"Castellón de la Plana [Castell",Valencia,139712
+ESP,Badajoz,Extremadura,136613
+ESP,"[San Cristóbal de] la Laguna","Canary Islands",127945
+ESP,Logroño,"La Rioja",127093
+ESP,"Santa Coloma de Gramenet",Katalonia,120802
+ESP,Tarragona,Katalonia,113016
+ESP,"Lleida (Lérida)",Katalonia,112207
+ESP,Jaén,Andalusia,109247
+ESP,"Ourense (Orense)",Galicia,109120
+ESP,Mataró,Katalonia,104095
+ESP,Algeciras,Andalusia,103106
+ESP,Marbella,Andalusia,101144
+ESP,Barakaldo,Baskimaa,98212
+ESP,"Dos Hermanas",Andalusia,94591
+ESP,"Santiago de Compostela",Galicia,93745
+ESP,"Torrejón de Ardoz",Madrid,92262
+ZAF,"Cape Town","Western Cape",2352121
+ZAF,Soweto,Gauteng,904165
+ZAF,Johannesburg,Gauteng,756653
+ZAF,"Port Elizabeth","Eastern Cape",752319
+ZAF,Pretoria,Gauteng,658630
+ZAF,Inanda,KwaZulu-Natal,634065
+ZAF,Durban,KwaZulu-Natal,566120
+ZAF,Vanderbijlpark,Gauteng,468931
+ZAF,"Kempton Park",Gauteng,442633
+ZAF,Alberton,Gauteng,410102
+ZAF,Pinetown,KwaZulu-Natal,378810
+ZAF,Pietermaritzburg,KwaZulu-Natal,370190
+ZAF,Benoni,Gauteng,365467
+ZAF,Randburg,Gauteng,341288
+ZAF,Umlazi,KwaZulu-Natal,339233
+ZAF,Bloemfontein,"Free State",334341
+ZAF,Vereeniging,Gauteng,328535
+ZAF,Wonderboom,Gauteng,283289
+ZAF,Roodepoort,Gauteng,279340
+ZAF,Boksburg,Gauteng,262648
+ZAF,Klerksdorp,"North West",261911
+ZAF,Soshanguve,Gauteng,242727
+ZAF,Newcastle,KwaZulu-Natal,222993
+ZAF,"East London","Eastern Cape",221047
+ZAF,Welkom,"Free State",203296
+ZAF,Kimberley,"Northern Cape",197254
+ZAF,Uitenhage,"Eastern Cape",192120
+ZAF,Chatsworth,KwaZulu-Natal,189885
+ZAF,Mdantsane,"Eastern Cape",182639
+ZAF,Krugersdorp,Gauteng,181503
+ZAF,Botshabelo,"Free State",177971
+ZAF,Brakpan,Gauteng,171363
+ZAF,Witbank,Mpumalanga,167183
+ZAF,Oberholzer,Gauteng,164367
+ZAF,Germiston,Gauteng,164252
+ZAF,Springs,Gauteng,162072
+ZAF,Westonaria,Gauteng,159632
+ZAF,Randfontein,Gauteng,120838
+ZAF,Paarl,"Western Cape",105768
+ZAF,Potchefstroom,"North West",101817
+ZAF,Rustenburg,"North West",97008
+ZAF,Nigel,Gauteng,96734
+ZAF,George,"Western Cape",93818
+ZAF,Ladysmith,KwaZulu-Natal,89292
+ETH,"Addis Abeba","Addis Abeba",2495000
+ETH,"Dire Dawa","Dire Dawa",164851
+ETH,Nazret,Oromia,127842
+ETH,Gonder,Amhara,112249
+ETH,Dese,Amhara,97314
+ETH,Mekele,Tigray,96938
+ETH,"Bahir Dar",Amhara,96140
+FLK,Stanley,"East Falkland",1636
+FJI,Suva,Central,77366
+PHL,Quezon,"National Capital Reg",2173831
+PHL,Manila,"National Capital Reg",1581082
+PHL,Kalookan,"National Capital Reg",1177604
+PHL,Davao,"Southern Mindanao",1147116
+PHL,Cebu,"Central Visayas",718821
+PHL,Zamboanga,"Western Mindanao",601794
+PHL,Pasig,"National Capital Reg",505058
+PHL,Valenzuela,"National Capital Reg",485433
+PHL,"Las Piñas","National Capital Reg",472780
+PHL,Antipolo,"Southern Tagalog",470866
+PHL,Taguig,"National Capital Reg",467375
+PHL,"Cagayan de Oro","Northern Mindanao",461877
+PHL,Parañaque,"National Capital Reg",449811
+PHL,Makati,"National Capital Reg",444867
+PHL,Bacolod,"Western Visayas",429076
+PHL,"General Santos","Southern Mindanao",411822
+PHL,Marikina,"National Capital Reg",391170
+PHL,Dasmariñas,"Southern Tagalog",379520
+PHL,Muntinlupa,"National Capital Reg",379310
+PHL,Iloilo,"Western Visayas",365820
+PHL,Pasay,"National Capital Reg",354908
+PHL,Malabon,"National Capital Reg",338855
+PHL,"San José del Monte","Central Luzon",315807
+PHL,Bacoor,"Southern Tagalog",305699
+PHL,Iligan,"Central Mindanao",285061
+PHL,Calamba,"Southern Tagalog",281146
+PHL,Mandaluyong,"National Capital Reg",278474
+PHL,Butuan,Caraga,267279
+PHL,Angeles,"Central Luzon",263971
+PHL,Tarlac,"Central Luzon",262481
+PHL,Mandaue,"Central Visayas",259728
+PHL,Baguio,CAR,252386
+PHL,Batangas,"Southern Tagalog",247588
+PHL,Cainta,"Southern Tagalog",242511
+PHL,"San Pedro","Southern Tagalog",231403
+PHL,Navotas,"National Capital Reg",230403
+PHL,Cabanatuan,"Central Luzon",222859
+PHL,"San Fernando","Central Luzon",221857
+PHL,Lipa,"Southern Tagalog",218447
+PHL,Lapu-Lapu,"Central Visayas",217019
+PHL,"San Pablo","Southern Tagalog",207927
+PHL,Biñan,"Southern Tagalog",201186
+PHL,Taytay,"Southern Tagalog",198183
+PHL,Lucena,"Southern Tagalog",196075
+PHL,Imus,"Southern Tagalog",195482
+PHL,Olongapo,"Central Luzon",194260
+PHL,Binangonan,"Southern Tagalog",187691
+PHL,"Santa Rosa","Southern Tagalog",185633
+PHL,Tagum,"Southern Mindanao",179531
+PHL,Tacloban,"Eastern Visayas",178639
+PHL,Malolos,"Central Luzon",175291
+PHL,Mabalacat,"Central Luzon",171045
+PHL,Cotabato,"Central Mindanao",163849
+PHL,Meycauayan,"Central Luzon",163037
+PHL,"Puerto Princesa","Southern Tagalog",161912
+PHL,Legazpi,Bicol,157010
+PHL,Silang,"Southern Tagalog",156137
+PHL,Ormoc,"Eastern Visayas",154297
+PHL,"San Carlos",Ilocos,154264
+PHL,Kabankalan,"Western Visayas",149769
+PHL,Talisay,"Central Visayas",148110
+PHL,Valencia,"Northern Mindanao",147924
+PHL,Calbayog,"Eastern Visayas",147187
+PHL,"Santa Maria","Central Luzon",144282
+PHL,Pagadian,"Western Mindanao",142515
+PHL,Cadiz,"Western Visayas",141954
+PHL,Bago,"Western Visayas",141721
+PHL,Toledo,"Central Visayas",141174
+PHL,Naga,Bicol,137810
+PHL,"San Mateo","Southern Tagalog",135603
+PHL,Panabo,"Southern Mindanao",133950
+PHL,Koronadal,"Southern Mindanao",133786
+PHL,Marawi,"Central Mindanao",131090
+PHL,Dagupan,Ilocos,130328
+PHL,Sagay,"Western Visayas",129765
+PHL,Roxas,"Western Visayas",126352
+PHL,Lubao,"Central Luzon",125699
+PHL,Digos,"Southern Mindanao",125171
+PHL,"San Miguel","Central Luzon",123824
+PHL,Malaybalay,"Northern Mindanao",123672
+PHL,Tuguegarao,"Cagayan Valley",120645
+PHL,Ilagan,"Cagayan Valley",119990
+PHL,Baliuag,"Central Luzon",119675
+PHL,Surigao,Caraga,118534
+PHL,"San Carlos","Western Visayas",118259
+PHL,"San Juan del Monte","National Capital Reg",117680
+PHL,Tanauan,"Southern Tagalog",117539
+PHL,Concepcion,"Central Luzon",115171
+PHL,"Rodriguez (Montalban)","Southern Tagalog",115167
+PHL,Sariaya,"Southern Tagalog",114568
+PHL,Malasiqui,Ilocos,113190
+PHL,"General Mariano Alvarez","Southern Tagalog",112446
+PHL,Urdaneta,Ilocos,111582
+PHL,Hagonoy,"Central Luzon",111425
+PHL,"San Jose","Southern Tagalog",111009
+PHL,Polomolok,"Southern Mindanao",110709
+PHL,Santiago,"Cagayan Valley",110531
+PHL,Tanza,"Southern Tagalog",110517
+PHL,Ozamis,"Northern Mindanao",110420
+PHL,Mexico,"Central Luzon",109481
+PHL,"San Jose","Central Luzon",108254
+PHL,Silay,"Western Visayas",107722
+PHL,"General Trias","Southern Tagalog",107691
+PHL,Tabaco,Bicol,107166
+PHL,Cabuyao,"Southern Tagalog",106630
+PHL,Calapan,"Southern Tagalog",105910
+PHL,Mati,"Southern Mindanao",105908
+PHL,Midsayap,"Central Mindanao",105760
+PHL,Cauayan,"Cagayan Valley",103952
+PHL,Gingoog,"Northern Mindanao",102379
+PHL,Dumaguete,"Central Visayas",102265
+PHL,"San Fernando",Ilocos,102082
+PHL,Arayat,"Central Luzon",101792
+PHL,"Bayawan (Tulong)","Central Visayas",101391
+PHL,Kidapawan,"Central Mindanao",101205
+PHL,"Daraga (Locsin)",Bicol,101031
+PHL,Marilao,"Central Luzon",101017
+PHL,Malita,"Southern Mindanao",100000
+PHL,Dipolog,"Western Mindanao",99862
+PHL,Cavite,"Southern Tagalog",99367
+PHL,Danao,"Central Visayas",98781
+PHL,Bislig,Caraga,97860
+PHL,Talavera,"Central Luzon",97329
+PHL,Guagua,"Central Luzon",96858
+PHL,Bayambang,Ilocos,96609
+PHL,Nasugbu,"Southern Tagalog",96113
+PHL,Baybay,"Eastern Visayas",95630
+PHL,Capas,"Central Luzon",95219
+PHL,"Sultan Kudarat",ARMM,94861
+PHL,Laoag,Ilocos,94466
+PHL,Bayugan,Caraga,93623
+PHL,Malungon,"Southern Mindanao",93232
+PHL,"Santa Cruz","Southern Tagalog",92694
+PHL,Sorsogon,Bicol,92512
+PHL,Candelaria,"Southern Tagalog",92429
+PHL,Ligao,Bicol,90603
+FRO,Tórshavn,Streymoyar,14542
+GAB,Libreville,Estuaire,419000
+GMB,Serekunda,"Kombo St Mary",102600
+GMB,Banjul,Banjul,42326
+GEO,Tbilisi,Tbilisi,1235200
+GEO,Kutaisi,Imereti,240900
+GEO,Rustavi,"Kvemo Kartli",155400
+GEO,Batumi,"Adzaria [Atšara]",137700
+GEO,Sohumi,"Abhasia [Aphazeti]",111700
+GHA,Accra,"Greater Accra",1070000
+GHA,Kumasi,Ashanti,385192
+GHA,Tamale,Northern,151069
+GHA,Tema,"Greater Accra",109975
+GHA,Sekondi-Takoradi,Western,103653
+GIB,Gibraltar,–,27025
+GRD,"Saint George´s","St George",4621
+GRL,Nuuk,Kitaa,13445
+GLP,"Les Abymes",Grande-Terre,62947
+GLP,Basse-Terre,Basse-Terre,12433
+GUM,Tamuning,–,9500
+GUM,Agaña,–,1139
+GTM,"Ciudad de Guatemala",Guatemala,823301
+GTM,Mixco,Guatemala,209791
+GTM,"Villa Nueva",Guatemala,101295
+GTM,Quetzaltenango,Quetzaltenango,90801
+GIN,Conakry,Conakry,1090610
+GNB,Bissau,Bissau,241000
+GUY,Georgetown,Georgetown,254000
+HTI,Port-au-Prince,Ouest,884472
+HTI,Carrefour,Ouest,290204
+HTI,Delmas,Ouest,240429
+HTI,Le-Cap-Haïtien,Nord,102233
+HND,Tegucigalpa,"Distrito Central",813900
+HND,"San Pedro Sula",Cortés,383900
+HND,"La Ceiba",Atlántida,89200
+HKG,"Kowloon and New Kowloon","Kowloon and New Kowl",1987996
+HKG,Victoria,Hongkong,1312637
+SJM,Longyearbyen,Länsimaa,1438
+IDN,Jakarta,"Jakarta Raya",9604900
+IDN,Surabaya,"East Java",2663820
+IDN,Bandung,"West Java",2429000
+IDN,Medan,"Sumatera Utara",1843919
+IDN,Palembang,"Sumatera Selatan",1222764
+IDN,Tangerang,"West Java",1198300
+IDN,Semarang,"Central Java",1104405
+IDN,"Ujung Pandang","Sulawesi Selatan",1060257
+IDN,Malang,"East Java",716862
+IDN,"Bandar Lampung",Lampung,680332
+IDN,Bekasi,"West Java",644300
+IDN,Padang,"Sumatera Barat",534474
+IDN,Surakarta,"Central Java",518600
+IDN,Banjarmasin,"Kalimantan Selatan",482931
+IDN,"Pekan Baru",Riau,438638
+IDN,Denpasar,Bali,435000
+IDN,Yogyakarta,Yogyakarta,418944
+IDN,Pontianak,"Kalimantan Barat",409632
+IDN,Samarinda,"Kalimantan Timur",399175
+IDN,Jambi,Jambi,385201
+IDN,Depok,"West Java",365200
+IDN,Cimahi,"West Java",344600
+IDN,Balikpapan,"Kalimantan Timur",338752
+IDN,Manado,"Sulawesi Utara",332288
+IDN,Mataram,"Nusa Tenggara Barat",306600
+IDN,Pekalongan,"Central Java",301504
+IDN,Tegal,"Central Java",289744
+IDN,Bogor,"West Java",285114
+IDN,Ciputat,"West Java",270800
+IDN,Pondokgede,"West Java",263200
+IDN,Cirebon,"West Java",254406
+IDN,Kediri,"East Java",253760
+IDN,Ambon,Molukit,249312
+IDN,Jember,"East Java",218500
+IDN,Cilacap,"Central Java",206900
+IDN,Cimanggis,"West Java",205100
+IDN,"Pematang Siantar","Sumatera Utara",203056
+IDN,Purwokerto,"Central Java",202500
+IDN,Ciomas,"West Java",187400
+IDN,Tasikmalaya,"West Java",179800
+IDN,Madiun,"East Java",171532
+IDN,Bengkulu,Bengkulu,146439
+IDN,Karawang,"West Java",145000
+IDN,"Banda Aceh",Aceh,143409
+IDN,Palu,"Sulawesi Tengah",142800
+IDN,Pasuruan,"East Java",134019
+IDN,Kupang,"Nusa Tenggara Timur",129300
+IDN,"Tebing Tinggi","Sumatera Utara",129300
+IDN,"Percut Sei Tuan","Sumatera Utara",129000
+IDN,Binjai,"Sumatera Utara",127222
+IDN,Sukabumi,"West Java",125766
+IDN,Waru,"East Java",124300
+IDN,"Pangkal Pinang","Sumatera Selatan",124000
+IDN,Magelang,"Central Java",123800
+IDN,Blitar,"East Java",122600
+IDN,Serang,"West Java",122400
+IDN,Probolinggo,"East Java",120770
+IDN,Cilegon,"West Java",117000
+IDN,Cianjur,"West Java",114300
+IDN,Ciparay,"West Java",111500
+IDN,Lhokseumawe,Aceh,109600
+IDN,Taman,"East Java",107000

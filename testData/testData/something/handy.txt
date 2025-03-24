@@ -1,0 +1,7 @@
+Pouzito jako knihovny, ktere vyzaduje drupal
+
+sudo apt install php libapache2-mod-php php-cli php-fpm php-json php-common php-mysql php-zip php-gd php-intl php-mbstring php-curl php-xml php-pear php-tidy php-soap php-bcmath php-xmlrpc 
+
+
+DRUPAL URL:
+https://www.drupal.org/download-latest/tar.gz
